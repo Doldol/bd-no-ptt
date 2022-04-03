@@ -1,8 +1,8 @@
 /**
  * @name NoPTT
  * @version 0.0.1
- * @authorLink https://github.com/doldol
- * @source https://raw.githubusercontent.com/doldol/bd-no-ptt/NoPTT.plugin.js
+ * @authorLink https://github.com/Doldol
+ * @source https://raw.githubusercontent.com/Doldol/bd-no-ptt/blob/main/NoPTT.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
